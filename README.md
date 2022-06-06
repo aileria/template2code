@@ -15,7 +15,7 @@ Templates are directories which can contain placeholders in file contents, file 
 
 Simply create a new directory under the templates' directory (./templates by default). Its name will be the name of the template.
 
-Inside the template directory create as many folders and files as you need, adding placeholders in file/directory names or file contents with the following syntax `{{placeholderName}}` (customization is possible, see [Configuration](##Configuration)).
+Inside the template directory create as many folders and files as you need, adding placeholders in file/directory names or file contents with the following syntax `{{placeholderName}}` (customization is possible, see [Configuration](#configuration)).
 
 ### 2. Generate code from template
 
