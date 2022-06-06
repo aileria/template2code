@@ -1,0 +1,1 @@
+console.log('My favorite number is {{favoriteNumber}}')
